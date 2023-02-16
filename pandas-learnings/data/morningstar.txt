@@ -1,2 +1,3 @@
+https://morningstar.in/handlers/autocompletehandler.ashx?criteria=dmart
 https://api-global.morningstar.com/sal-service/v1/stock/newfinancials/0P0000BP80/incomeStatement/detail?dataType=A&reportType=A&locale=en&operation=export&access_token=Ifj33EcshqYPBhvHbihBhuJ1D9VK
 get access_token from individual stock page from head -> meta -> accessToken
